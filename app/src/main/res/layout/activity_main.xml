@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wma.flowlayout.FlowLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wma.flowlayout.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C++"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C#"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="java"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="python"
+        android:padding="5dp"
+        android:textSize="25sp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="php"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我要学习一门语言"
+        android:textSize="30sp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这门语言是什么呢？还得好好想想"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="不是很好想，那就将就选一门"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="就是他了"
+        android:textSize="25sp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent" />
+
+</com.wma.flowlayout.FlowLayout>
